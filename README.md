@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/sinan-yazici/sinan-yazici/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -37,10 +41,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-###
-
-
-<img src="https://raw.githubusercontent.com/sinan-yazici/sinan-yazici/output/snake.svg" alt="Snake animation" />
 
 ###
