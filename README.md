@@ -39,3 +39,8 @@
 </div>
 
 ###
+
+
+<img src="https://raw.githubusercontent.com/sinan-yazici/sinan-yazici/output/snake.svg" alt="Snake animation" />
+
+###
