@@ -25,7 +25,7 @@
 <h2 align="left">🧠 Most Used Technologies</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=symfony,react,javascript,php,tailwind,html,css,ts,python" height="40" />
+  <img src="https://skillicons.dev/icons?i=symfony,react,nextjs,javascript,php,tailwind,bootstrap" height="40" />
 </p>
 
 ###
