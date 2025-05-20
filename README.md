@@ -16,12 +16,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan-yazici&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">🧠 Most Used Technologies</h2>
 
 <p align="left">
